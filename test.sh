@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "jenkins server memory info "
-free -m 
+echo "deployed app on Target locations"
+ifconfig
